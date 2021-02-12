@@ -7,7 +7,7 @@ gem 'devise'
 gem 'bootstrap-sass'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.1'
+gem 'rails', '6.0.3.5'
 
 #Use Postgresql for the database
 gem 'pg'
